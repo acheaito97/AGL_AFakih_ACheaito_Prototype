@@ -1,0 +1,8 @@
+
+	1)You need to install wampserver(http://wampserver.aviatechno.net/)
+	2)Put the Project in the root page of the server
+	3)Extract Style.zip File in the root location of the project
+	3)Change the SQL Server Configuration(Username and Password) from the file "DataSource/dbconnect.php"
+	4)Run the DB.SQL file script in SQL Server to implement the Database
+	5)Candidate Account (ID: "1000" , Passowrd: "123")
+	6)Company Account (ID: "1" , Passowrd: "123")
